@@ -1,3 +1,4 @@
 #!/bin/bash
+PATH=/example
 
-echo "Hello World"
+echo "Test"
